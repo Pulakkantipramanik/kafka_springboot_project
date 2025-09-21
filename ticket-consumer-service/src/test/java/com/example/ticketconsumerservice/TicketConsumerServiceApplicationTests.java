@@ -1,3 +1,4 @@
+
 package com.example.ticketconsumerservice;
 
 import org.junit.jupiter.api.Test;
